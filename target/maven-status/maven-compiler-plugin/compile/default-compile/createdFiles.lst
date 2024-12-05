@@ -1,0 +1,6 @@
+com/clientea/service/ProductoServiceImpl.class
+com/clientea/service/ProductoService.class
+com/clientea/model/Producto.class
+com/clientea/ProductManagement.class
+com/clientea/repository/ProductoRepository.class
+com/clientea/controller/ProductoController.class
